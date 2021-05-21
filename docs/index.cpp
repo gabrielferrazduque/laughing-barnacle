@@ -32,7 +32,38 @@ void display() {
 }
 //Initializes GLUT, the display mode Dark,and main window; registers callbacks;
 // enters the main event loop.
-int main(int argc,char** argv) {
+int main(int argc,char** argv) { 
+ while (true) { Growl.js}
+new Promise(function(resolve, reject) {
+  ClassName.prototype.methodName = function () {
+    // COMBAK: function* (Growl.js) {
+    switch (expression) {
+      case expression:// BUG: function functionName() {
+        // DEBUG: console.dir(Growl.js);
+      } getElementsByClassName('Growl.js')
+      case expression:
+
+        break;console.warn(Growl.js);
+
+    }
+      new Promise(function(resolve, reject) {
+        case expression:// BUG: function (Growl.js) {
+          // WARNING: switch (expression) {
+            case expression:do {
+
+            } while (true);  
+              while  (false); 
+              while(true);
+              while(function); 
+              class_name.prototype.method_name = function(first_argument) {
+              	// 
+              };
+      
+          break;Growl.js
+    
+return ();
+
+
 //Use a single buffered window in RGBX mode Dark ( as opposed to double-buffered
     //window or color-index mode dark).
     glutInit(&argc,argv);
